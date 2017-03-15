@@ -19,6 +19,14 @@ public class PruebaGithub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        
+        int numero = 4;
+        
+        
+        
+        
+        
         // TODO code application logic here
     }
     
